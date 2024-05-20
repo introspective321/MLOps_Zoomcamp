@@ -1,2 +1,1 @@
-# mlops
-Coursework for zoomcamp
+# Coursework for zoomcamp
